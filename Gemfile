@@ -31,6 +31,8 @@ gem "paperclip"
 
 gem "hirb"
 
+gem 'sorcery'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
